@@ -1,0 +1,11 @@
+baseURL = "https://blog.yanisguenane.fr"
+languageCode = "en-us"
+title = "IT. Knowledge. Share. OpenSource"
+theme = "purehugo"
+
+[params]
+  twitterName = "YanisGuenane"
+  githubName = "Spredzy"
+  linkedinName = "yanisguenane"
+  description = "Random IT thoughts."
+  hideShareOptions = true
